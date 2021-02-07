@@ -16,7 +16,7 @@
 ![image](https://user-images.githubusercontent.com/74798510/107160649-2e747500-69a0-11eb-80d1-d55132fb7d22.png)
 ### ON CLICK WE GET TO OUR CALENDAR
 ![image](https://user-images.githubusercontent.com/74798510/107160716-9b880a80-69a0-11eb-8aa6-6a1b67d7b846.png)
-### ADD EVENT WITH  THE + SIGN
+### ADD EVENT WITH  THE + SIGN THE DEFAULT DATE SET AS TODAY'S DATE
 ![image](https://user-images.githubusercontent.com/74798510/107160759-e86be100-69a0-11eb-8738-6baa7fb6ed8b.png)
 
 ## Repository
