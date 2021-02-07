@@ -40,4 +40,7 @@ dependencies {
 	implementation 'com.github.dolevd2012:CalendarLibraryWithSample:1.00.00'
 }
 ```
-
+## USEAGE
+```
+FOR FOLLOWING INFORMATION CHECK UP THE ACTIVITY SAMPLE
+```
