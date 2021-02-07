@@ -9,8 +9,10 @@
 # DESCRIPTION
 1.Calendar Widget Library using SQLiteDBHandler to remember its history useage.
 2.Calendar Widget Library can be installed as a widget on any anroid phone.
-![image](https://user-images.githubusercontent.com/74798510/107160649-2e747500-69a0-11eb-80d1-d55132fb7d22.png)
 
+
+# PICTURES
+![image](https://user-images.githubusercontent.com/74798510/107160649-2e747500-69a0-11eb-80d1-d55132fb7d22.png)
 
 
 
@@ -32,3 +34,4 @@ dependencies {
 	implementation 'com.github.dolevd2012:CalendarLibraryWithSample:1.00.00'
 }
 ```
+
