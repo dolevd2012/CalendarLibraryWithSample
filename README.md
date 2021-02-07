@@ -44,8 +44,8 @@ dependencies {
 ```
 FOR MORE INFORMATION CHECK UP THE ACTIVITY SAMPLE
 If you want to create your own activity follow those steps:
-    On your main Activity change the AppCompatActivity to CalendarActivity
-    make sure you delete your layout since the main layout isnt yours but the CalendarActivity Layout
-    you can check Database Inspector to see database works under CalendarDataBase -> EventCalendar
+1)On your main Activity change the AppCompatActivity to CalendarActivity
+2)make sure you delete your layout since the main layout isnt yours but the CalendarActivity Layout
+3)you can check Database Inspector to see database works under CalendarDataBase -> EventCalendar
 ```
 
