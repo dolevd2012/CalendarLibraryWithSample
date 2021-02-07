@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:layout_marginStart="45dp"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_marginTop="8dp"
+    app:cardCornerRadius="20dp"
+    app:cardBackgroundColor="#03A9F4">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="13dp"
+        >
+
+        <TextView
+            android:id="@+id/TV_ADAPTER_EVENT"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="EVENT"
+            android:textColor="@color/white"
+            android:textSize="18dp"
+        ></TextView>
+
+        <TextView
+            android:id="@+id/TV_ADAPTER_HOURS"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="HOURS"
+            android:textColor="@color/white"
+            android:textSize="18dp"
+            ></TextView>
+
+
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
