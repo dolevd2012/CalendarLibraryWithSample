@@ -14,7 +14,7 @@ public class MainActivity extends CalendarActivity {
         super.onCreate(savedInstanceState);
         deleteAllEvents();
         ArrayList<mainData> arrayList = new ArrayList<>();
-        setTitle("MY SHOP");
+        setTitle("MY Routine App");
         mainData a = new mainData("WALKING","12:00-23:00");
         mainData b = new mainData("CYCLING","15:00-19:00");
         arrayList.add(a);
